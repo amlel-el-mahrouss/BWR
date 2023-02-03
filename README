@@ -1,4 +1,8 @@
 BootWare Firmware
 =================
 
-UNIX-like Firmware written in C and SPARC/MIPS/RISC-V assembly.
+UNIX-like Firmware written in C and MIPS assembly.
+
+==============================================
+Copyright © NDC Corporation, all rights reserved.
+==============================================
